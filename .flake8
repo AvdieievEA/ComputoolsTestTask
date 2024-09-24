@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 88
+exclude = .git,.venv,__pycache__,test_task.py
+max-complexity = 10
